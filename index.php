@@ -12,7 +12,8 @@
 include_once 'bin/table.php';
 echo "<br /> <hr width= 75%> <br />";
 include_once 'bin/piramid.php';
-
+echo "<br /> <hr width= 75%> <br />";
+include_once 'bin/chess_board.php';
 ?>
 
 </body>
